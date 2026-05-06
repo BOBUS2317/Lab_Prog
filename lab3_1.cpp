@@ -25,6 +25,7 @@ int main() {
     lst.push_back(11);
 
     cout << "Sizes: " << arr.size() << " " << vec.size() << " " << lst.size() << endl;
+    cout << "Array: " << arr[0] << " " << arr.back() << endl;
     cout << "Vector: " << vec[0] << " " << vec.back() << endl;
     cout << "List: " << lst.front() << " " << lst.back() << endl;
 
