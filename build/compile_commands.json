@@ -1,0 +1,188 @@
+[
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab1_1.dir\\part1.cpp.obj -c D:\\code\\part1.cpp",
+  "file": "D:/code/part1.cpp",
+  "output": "D:/code/build/CMakeFiles/lab1_1.dir/part1.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab1_2.dir\\part2.cpp.obj -c D:\\code\\part2.cpp",
+  "file": "D:/code/part2.cpp",
+  "output": "D:/code/build/CMakeFiles/lab1_2.dir/part2.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab1_3.dir\\part3.cpp.obj -c D:\\code\\part3.cpp",
+  "file": "D:/code/part3.cpp",
+  "output": "D:/code/build/CMakeFiles/lab1_3.dir/part3.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab2_1.dir\\part4.cpp.obj -c D:\\code\\part4.cpp",
+  "file": "D:/code/part4.cpp",
+  "output": "D:/code/build/CMakeFiles/lab2_1.dir/part4.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab2_2.dir\\part5.cpp.obj -c D:\\code\\part5.cpp",
+  "file": "D:/code/part5.cpp",
+  "output": "D:/code/build/CMakeFiles/lab2_2.dir/part5.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab2_3.dir\\part6.cpp.obj -c D:\\code\\part6.cpp",
+  "file": "D:/code/part6.cpp",
+  "output": "D:/code/build/CMakeFiles/lab2_3.dir/part6.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab2_4.dir\\part7.cpp.obj -c D:\\code\\part7.cpp",
+  "file": "D:/code/part7.cpp",
+  "output": "D:/code/build/CMakeFiles/lab2_4.dir/part7.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab2_5.dir\\part8.cpp.obj -c D:\\code\\part8.cpp",
+  "file": "D:/code/part8.cpp",
+  "output": "D:/code/build/CMakeFiles/lab2_5.dir/part8.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3_1.dir\\lab3_1.cpp.obj -c D:\\code\\lab3_1.cpp",
+  "file": "D:/code/lab3_1.cpp",
+  "output": "D:/code/build/CMakeFiles/lab3_1.dir/lab3_1.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3_2.dir\\lab3_2.cpp.obj -c D:\\code\\lab3_2.cpp",
+  "file": "D:/code/lab3_2.cpp",
+  "output": "D:/code/build/CMakeFiles/lab3_2.dir/lab3_2.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3_3.dir\\lab3_3.cpp.obj -c D:\\code\\lab3_3.cpp",
+  "file": "D:/code/lab3_3.cpp",
+  "output": "D:/code/build/CMakeFiles/lab3_3.dir/lab3_3.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3_4.dir\\lab3_4.cpp.obj -c D:\\code\\lab3_4.cpp",
+  "file": "D:/code/lab3_4.cpp",
+  "output": "D:/code/build/CMakeFiles/lab3_4.dir/lab3_4.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3_5.dir\\lab3_5.cpp.obj -c D:\\code\\lab3_5.cpp",
+  "file": "D:/code/lab3_5.cpp",
+  "output": "D:/code/build/CMakeFiles/lab3_5.dir/lab3_5.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab4_1.dir\\lab4_1.cpp.obj -c D:\\code\\lab4_1.cpp",
+  "file": "D:/code/lab4_1.cpp",
+  "output": "D:/code/build/CMakeFiles/lab4_1.dir/lab4_1.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab4_2.dir\\lab4_2.cpp.obj -c D:\\code\\lab4_2.cpp",
+  "file": "D:/code/lab4_2.cpp",
+  "output": "D:/code/build/CMakeFiles/lab4_2.dir/lab4_2.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab4_3.dir\\lab4_3.cpp.obj -c D:\\code\\lab4_3.cpp",
+  "file": "D:/code/lab4_3.cpp",
+  "output": "D:/code/build/CMakeFiles/lab4_3.dir/lab4_3.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab4_4.dir\\lab4_4.cpp.obj -c D:\\code\\lab4_4.cpp",
+  "file": "D:/code/lab4_4.cpp",
+  "output": "D:/code/build/CMakeFiles/lab4_4.dir/lab4_4.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab4_5.dir\\lab4_5.cpp.obj -c D:\\code\\lab4_5.cpp",
+  "file": "D:/code/lab4_5.cpp",
+  "output": "D:/code/build/CMakeFiles/lab4_5.dir/lab4_5.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab5_1.dir\\lab5_1.cpp.obj -c D:\\code\\lab5_1.cpp",
+  "file": "D:/code/lab5_1.cpp",
+  "output": "D:/code/build/CMakeFiles/lab5_1.dir/lab5_1.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab5_2.dir\\lab5_2.cpp.obj -c D:\\code\\lab5_2.cpp",
+  "file": "D:/code/lab5_2.cpp",
+  "output": "D:/code/build/CMakeFiles/lab5_2.dir/lab5_2.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab5_3.dir\\lab5_3.cpp.obj -c D:\\code\\lab5_3.cpp",
+  "file": "D:/code/lab5_3.cpp",
+  "output": "D:/code/build/CMakeFiles/lab5_3.dir/lab5_3.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\counter_app.dir\\Counter\\Counter.cpp.obj -c D:\\code\\Counter\\Counter.cpp",
+  "file": "D:/code/Counter/Counter.cpp",
+  "output": "D:/code/build/CMakeFiles/counter_app.dir/Counter/Counter.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\counter_app.dir\\Counter\\main.cpp.obj -c D:\\code\\Counter\\main.cpp",
+  "file": "D:/code/Counter/main.cpp",
+  "output": "D:/code/build/CMakeFiles/counter_app.dir/Counter/main.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\point_app.dir\\Point\\Point.cpp.obj -c D:\\code\\Point\\Point.cpp",
+  "file": "D:/code/Point/Point.cpp",
+  "output": "D:/code/build/CMakeFiles/point_app.dir/Point/Point.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\point_app.dir\\Point\\main.cpp.obj -c D:\\code\\Point\\main.cpp",
+  "file": "D:/code/Point/main.cpp",
+  "output": "D:/code/build/CMakeFiles/point_app.dir/Point/main.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\digitalClock_app.dir\\DigitalClock\\DigitalClock.cpp.obj -c D:\\code\\DigitalClock\\DigitalClock.cpp",
+  "file": "D:/code/DigitalClock/DigitalClock.cpp",
+  "output": "D:/code/build/CMakeFiles/digitalClock_app.dir/DigitalClock/DigitalClock.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\digitalClock_app.dir\\DigitalClock\\main.cpp.obj -c D:\\code\\DigitalClock\\main.cpp",
+  "file": "D:/code/DigitalClock/main.cpp",
+  "output": "D:/code/build/CMakeFiles/digitalClock_app.dir/DigitalClock/main.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\student_app.dir\\Student\\Student.cpp.obj -c D:\\code\\Student\\Student.cpp",
+  "file": "D:/code/Student/Student.cpp",
+  "output": "D:/code/build/CMakeFiles/student_app.dir/Student/Student.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\student_app.dir\\Student\\main.cpp.obj -c D:\\code\\Student\\main.cpp",
+  "file": "D:/code/Student/main.cpp",
+  "output": "D:/code/build/CMakeFiles/student_app.dir/Student/main.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\smartArray_app.dir\\SmartArray\\SmartArray.cpp.obj -c D:\\code\\SmartArray\\SmartArray.cpp",
+  "file": "D:/code/SmartArray/SmartArray.cpp",
+  "output": "D:/code/build/CMakeFiles/smartArray_app.dir/SmartArray/SmartArray.cpp.obj"
+},
+{
+  "directory": "D:/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\smartArray_app.dir\\SmartArray\\main.cpp.obj -c D:\\code\\SmartArray\\main.cpp",
+  "file": "D:/code/SmartArray/main.cpp",
+  "output": "D:/code/build/CMakeFiles/smartArray_app.dir/SmartArray/main.cpp.obj"
+}
+]
